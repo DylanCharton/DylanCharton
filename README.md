@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://user-images.githubusercontent.com/87655433/142492382-b3a7019e-38a0-4d86-99b7-fe42533cc4ca.mp4
+![ImpureElementaryJaguar-mobile](https://user-images.githubusercontent.com/87655433/142492673-d5bbec16-743e-44bb-90dc-81469d1fb071.gif)
+
 
 
